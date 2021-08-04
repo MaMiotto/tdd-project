@@ -1,0 +1,3 @@
+O processo tdd composto de testes funcionais e de unidade funciona da seguinte forma:
+
+Primeiro escrevemos um teste funcional. Ele não vai passar, pois o primeiro estado em um projeto TDD é o vermelho. Então devemos escrever um código mínimo, que nesse caso é o teste de unidade. O teste escrito não vai passar, e então devemos fazer um código mínimo, desta vez um código da aplicação. Este código é refatorado até que o teste de unidade passe. E então voltamos para o teste funcional que deve passar (ou então refazemos o passo de escrita do código mínimo, começando na escrita do testee de unidade).
