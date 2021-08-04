@@ -1,0 +1,3 @@
+1) Testes de unidade testam cada módulo de forma independente, enquanto testes funcionais testam vários módulos do sistema, integrados e funcionais.
+
+2) Testes funcionais fazem uso da interface gráfica da aplicação enquanto testes de unidades usam apenas a interface de métodos e classes do código.
